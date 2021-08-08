@@ -1,0 +1,2 @@
+Hi
+This is a file with only few lines of comments for testing the git commit
